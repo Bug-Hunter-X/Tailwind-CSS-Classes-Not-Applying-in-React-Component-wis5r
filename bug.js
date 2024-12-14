@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly in a specific component of my React application.  The component's structure appeared correct, and the classes were being imported and referenced properly, yet the styles weren't rendering.
